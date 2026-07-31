@@ -12,6 +12,11 @@
 - Excel
 - Power BI
 - Git
+- ## 📊 GitHub Stats
+
+![Harish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harishrofficial22-stack&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harishrofficial22-stack&layout=compact&theme=tokyonight)
 - GitHub
 
 ## 📫 Contact
