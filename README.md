@@ -1,9 +1,18 @@
 # Hi 👋, I'm Harish R
 
-🎓 Engineering Graduate
+## 👨‍💻 About Me
+- 🎓 Engineering Graduate
+- 💻 Learning Python, SQL, Excel & Power BI
+- 📊 Interested in Data Analytics
+- 📍 Chennai, India
 
-💻 Python | SQL | Excel | Power BI
+## 🛠️ Skills
+- Python
+- SQL
+- Excel
+- Power BI
+- Git
+- GitHub
 
-📍 Chennai, India
-
-🌱 Learning Data Analytics
+## 📫 Contact
+- GitHub: https://github.com/harishrofficial22-stack
