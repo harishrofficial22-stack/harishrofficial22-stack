@@ -1,4 +1,9 @@
-# Hi 👋, I'm Harish R
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="light.svg">
+  <img alt="Harish R" src="light.svg">
+</picture>
+# Hi 👋, I'm Harish R 
 
 ## 👨‍💻 About Me
 - 🎓 Engineering Graduate
