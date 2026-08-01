@@ -30,6 +30,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harishrofficial22-stack/harishrofficial22-stack/output/snake-light.svg">
   <img alt="snake" src="https://raw.githubusercontent.com/harishrofficial22-stack/harishrofficial22-stack/output/snake-light.svg">
 </picture>
+
 ### 🔗 Connect with me
 
 <p align="left">
