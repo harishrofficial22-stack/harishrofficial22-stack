@@ -30,3 +30,10 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harishrofficial22-stack/harishrofficial22-stack/output/snake-light.svg">
   <img alt="snake" src="https://raw.githubusercontent.com/harishrofficial22-stack/harishrofficial22-stack/output/snake-light.svg">
 </picture>
+### 🔗 Connect with me
+
+<p align="left">
+  <a href="mailto:rr0190141@gmail.com"><img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/harish-r"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="https://fanciful-shortbread.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
