@@ -23,3 +23,10 @@
 ![Top Languages](https://github-readme-stats-sepia-one-20.vercel.app/api/top-langs/?username=harishrofficial22-stack&layout=compact&theme=github_dark&cb=1)
 ## 📫 Contact
 - GitHub: https://github.com/harishrofficial22-stack
+- ### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harishrofficial22-stack/harishrofficial22-stack/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harishrofficial22-stack/harishrofficial22-stack/output/snake-light.svg">
+  <img alt="snake" src="https://raw.githubusercontent.com/harishrofficial22-stack/harishrofficial22-stack/output/snake-light.svg">
+</picture>
